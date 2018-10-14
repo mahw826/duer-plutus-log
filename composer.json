@@ -1,0 +1,17 @@
+{
+    "name": "duer/plutus",
+    "description": "notice log for plutus, in phalcon php",
+    "type": "library",
+    "authors": [
+        {
+            "name": "mahongwei",
+            "email": "mahongwei@baidu.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Duer\\Plutus\\": "src/"
+        }
+    }
+}
