@@ -8,6 +8,7 @@
             "email": "mahongwei@baidu.com"
         }
     ],
+    "homepage": "https://github.com/mahw826/duer-plutus-log",
     "require": {},
     "autoload": {
         "psr-4": {
